@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    }
+body {
+    background: linear-gradient(grey , white); 
+    
+}
+main {
+    display: flex;
+    
+}
+.container-main{
+    height: 100%;
+    display: flex;
+    }
+    .paraph{
+        display: block;
+        
+    }
+    
+div img {
+    height: 100%;
+}
+.cardbutton {
+    margin-top: 90%;
+    background-color: blue;
+    display: flex;
+   justify-content: center;
+   
+}
